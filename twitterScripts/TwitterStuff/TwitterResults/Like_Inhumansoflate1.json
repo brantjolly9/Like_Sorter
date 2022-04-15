@@ -1,0 +1,157 @@
+{
+  "created_at": "Sun Oct 24 19:58:10 +0000 2021",
+  "id": 1452363810833002499,
+  "id_str": "1452363810833002499",
+  "text": "Non political post https://t.co/6nA7lF5Ypj",
+  "truncated": false,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [],
+    "media": [
+      {
+        "id": 1452363807875948545,
+        "id_str": "1452363807875948545",
+        "indices": [
+          19,
+          42
+        ],
+        "media_url": "http://pbs.twimg.com/media/FCfVMDUUYAEHz5V.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/FCfVMDUUYAEHz5V.jpg",
+        "url": "https://t.co/6nA7lF5Ypj",
+        "display_url": "pic.twitter.com/6nA7lF5Ypj",
+        "expanded_url": "https://twitter.com/Inhumansoflate1/status/1452363810833002499/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 402,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 893,
+            "h": 1511,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 709,
+            "h": 1200,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "id": 1452363807875948545,
+        "id_str": "1452363807875948545",
+        "indices": [
+          19,
+          42
+        ],
+        "media_url": "http://pbs.twimg.com/media/FCfVMDUUYAEHz5V.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/FCfVMDUUYAEHz5V.jpg",
+        "url": "https://t.co/6nA7lF5Ypj",
+        "display_url": "pic.twitter.com/6nA7lF5Ypj",
+        "expanded_url": "https://twitter.com/Inhumansoflate1/status/1452363810833002499/photo/1",
+        "type": "photo",
+        "sizes": {
+          "thumb": {
+            "w": 150,
+            "h": 150,
+            "resize": "crop"
+          },
+          "small": {
+            "w": 402,
+            "h": 680,
+            "resize": "fit"
+          },
+          "large": {
+            "w": 893,
+            "h": 1511,
+            "resize": "fit"
+          },
+          "medium": {
+            "w": 709,
+            "h": 1200,
+            "resize": "fit"
+          }
+        }
+      }
+    ]
+  },
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 1251143752044867586,
+    "id_str": "1251143752044867586",
+    "name": "Against late capitalism \ud83e\udeb6",
+    "screen_name": "Inhumansoflate1",
+    "location": "Portland, OR",
+    "description": "resisting late capitalism a news journal of late capitalism and it\u2019s inhumanity . they/them a trans indigenous journalist \u262d \ud83c\udff4 \ud83d\udea9#humansoflatecapitalism",
+    "url": null,
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 25007,
+    "friends_count": 1841,
+    "listed_count": 85,
+    "created_at": "Fri Apr 17 13:41:42 +0000 2020",
+    "favourites_count": 91870,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": false,
+    "verified": false,
+    "statuses_count": 33682,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": null,
+    "profile_background_image_url_https": null,
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1421620079460962309/HGAGpBDX_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1421620079460962309/HGAGpBDX_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1251143752044867586/1627481748",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": true,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 4,
+  "favorite_count": 104,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "it"
+}

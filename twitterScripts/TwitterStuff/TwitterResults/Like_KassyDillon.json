@@ -1,0 +1,102 @@
+{
+  "created_at": "Fri Oct 22 14:05:38 +0000 2021",
+  "id": 1451550316994904065,
+  "id_str": "1451550316994904065",
+  "text": "The Marine who stopped the corner store robbery in the viral video was just on Fox News. \n\nHe ended his interview s\u2026 https://t.co/eOff2194lS",
+  "truncated": true,
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "user_mentions": [],
+    "urls": [
+      {
+        "url": "https://t.co/eOff2194lS",
+        "expanded_url": "https://twitter.com/i/web/status/1451550316994904065",
+        "display_url": "twitter.com/i/web/status/1\u2026",
+        "indices": [
+          117,
+          140
+        ]
+      }
+    ]
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "in_reply_to_screen_name": null,
+  "user": {
+    "id": 178999981,
+    "id_str": "178999981",
+    "name": "Kassy Dillon",
+    "screen_name": "KassyDillon",
+    "location": "Boston",
+    "description": "Team @standforamerica \u2022 Founder @LoConservative \u2022 Seen in: @WSJ @TheHill @DCExaminer @realDailyWire @theammind \u2022 Never sarcastic",
+    "url": "https://t.co/7YPJPPoN0H",
+    "entities": {
+      "url": {
+        "urls": [
+          {
+            "url": "https://t.co/7YPJPPoN0H",
+            "expanded_url": "https://kassydillon.locals.com/",
+            "display_url": "kassydillon.locals.com",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "description": {
+        "urls": []
+      }
+    },
+    "protected": false,
+    "followers_count": 159822,
+    "friends_count": 2037,
+    "listed_count": 771,
+    "created_at": "Mon Aug 16 06:56:27 +0000 2010",
+    "favourites_count": 41251,
+    "utc_offset": null,
+    "time_zone": null,
+    "geo_enabled": true,
+    "verified": true,
+    "statuses_count": 57884,
+    "lang": null,
+    "contributors_enabled": false,
+    "is_translator": false,
+    "is_translation_enabled": false,
+    "profile_background_color": "FFFFFF",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+    "profile_background_tile": false,
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1326244085246517249/d4I5ta84_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1326244085246517249/d4I5ta84_normal.jpg",
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/178999981/1612551393",
+    "profile_link_color": "860002",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "FFFFFF",
+    "profile_text_color": "1267AC",
+    "profile_use_background_image": true,
+    "has_extended_profile": true,
+    "default_profile": false,
+    "default_profile_image": false,
+    "following": null,
+    "follow_request_sent": null,
+    "notifications": null,
+    "translator_type": "none",
+    "withheld_in_countries": []
+  },
+  "geo": null,
+  "coordinates": null,
+  "place": null,
+  "contributors": null,
+  "is_quote_status": false,
+  "retweet_count": 6488,
+  "favorite_count": 34043,
+  "favorited": false,
+  "retweeted": false,
+  "possibly_sensitive": false,
+  "lang": "en"
+}
