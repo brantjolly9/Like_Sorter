@@ -1,0 +1,980 @@
+==================================
+-----gilbertftw--------
+Check Quote
+	Is a reply Status
+	Reply Tweet ID: 1514675621393154060
+	Original Tweet ID: 1514674326984957953
+is a reply
+==================================
+-----basedmina--------
+Check Quote
+	Is a reply Status
+	Reply Tweet ID: 1514674326984957953
+	Original Tweet ID: 1514671099262296070
+==================================
+-----gilbertftw--------
+Check Quote
+	Returned Original Tweet: 1514671099262296070
+
+gilbertftw-------
+-Entities
+--------
+you tell your friend about one book and suddenly   https://t.co/960SKUEjjQ
+Index Error on Media Url
+-Extended Entities
+------
+Found Ext Media
+Is Photo
+
+** Adding dict_keys(['text', 'hasMedia'])
+________________________
+
+** Adding dict_keys(['hasMedia', 'type', 'mediaUrl'])
+________________________
+
+** Adding dict_keys(['id_str', 'text', 'name', 'screen_name', 'created_at', 'favorite_count', 'retweet_count', 'in_reply_to_status_id_str'])
+________________________
+==================================
+-----aimeeterese--------
+Check Quote
+	Returned Original Tweet: 1514597003682279424
+
+aimeeterese-------
+-Entities
+--------
+noooo you can't let a billionaire own the media! https://t.co/sAfhnVjU7V
+Index Error on Media Url
+-Extended Entities
+------
+Found Ext Media
+Is Photo
+
+** Adding dict_keys(['text', 'hasMedia'])
+________________________
+
+** Adding dict_keys(['hasMedia', 'type', 'mediaUrl'])
+________________________
+
+** Adding dict_keys(['id_str', 'text', 'name', 'screen_name', 'created_at', 'favorite_count', 'retweet_count', 'in_reply_to_status_id_str'])
+________________________
+==================================
+-----US_Stormwatch--------
+Check Quote
+	Returned Original Tweet: 1514361216725966856
+
+US_Stormwatch-------
+-Entities
+--------
+The "unzipping" of the dryline yesterday across the Plains is one of the coolest meteorological processes I have ev https://t.co/BYu3l9oLj4
+Found 4 URLs
+Expanded_url: https://twitter.com/i/web/status/1514361216725966856
+Book updated-Extended Entities
+------
+No extEntMedia for: US_Stormwatch
+
+** Adding dict_keys(['text', 'expanded_url', 'hasMedia'])
+________________________
+
+** Adding dict_keys(['id_str', 'text', 'name', 'screen_name', 'created_at', 'favorite_count', 'retweet_count', 'in_reply_to_status_id_str'])
+________________________
+==================================
+-----1889dinofg--------
+Check Quote
+	Is a reply Status
+	Reply Tweet ID: 1513978813318717442
+	Original Tweet ID: 1513976004334784523
+is a reply
+==================================
+-----Baked_groyper--------
+Check Quote
+	Is a reply Status
+	Reply Tweet ID: 1513976004334784523
+	Original Tweet ID: 1513960803980005380
+==================================
+-----LetTheNukesFly--------
+Check Quote
+	Is a reply Status
+	Reply Tweet ID: 1513960803980005380
+	Original Tweet ID: 1513954587375378432
+is a reply
+==================================
+-----NameBunchONumbs--------
+Check Quote
+	Is a reply Status
+	Reply Tweet ID: 1513954587375378432
+	Original Tweet ID: 1513952906998865931
+==================================
+-----comfyfugitive--------
+Check Quote
+	Is a reply Status
+	Reply Tweet ID: 1513952906998865931
+	Original Tweet ID: 1513951242883637263
+is a reply
+==================================
+-----StonedPepeIRL--------
+Check Quote
+	Is a reply Status
+	Reply Tweet ID: 1513951242883637263
+	Original Tweet ID: 1513948707724607501
+==================================
+-----FrensFather--------
+Check Quote
+	Returned Original Tweet: 1513948707724607501
+
+FrensFather-------
+-Entities
+--------
+The shooting in Brooklyn happened on the N Train
+
+Seems appropriate.
+Index Error on Media Url
+-Extended Entities
+------
+No extEntMedia for: FrensFather
+
+** Adding dict_keys(['text', 'hasMedia'])
+________________________
+
+** Adding dict_keys(['id_str', 'text', 'name', 'screen_name', 'created_at', 'favorite_count', 'retweet_count', 'in_reply_to_status_id_str'])
+________________________
+==================================
+-----Lukewearechange--------
+Check Quote
+	Returned Original Tweet: 1513671098495287298
+
+Lukewearechange-------
+-Entities
+--------
+This is the diet that the globalist want you on and sadly many people are on it already! https://t.co/298DUYqjKg
+Index Error on Media Url
+-Extended Entities
+------
+Found Ext Media
+Is Photo
+
+** Adding dict_keys(['text', 'hasMedia'])
+________________________
+
+** Adding dict_keys(['hasMedia', 'type', 'mediaUrl'])
+________________________
+
+** Adding dict_keys(['id_str', 'text', 'name', 'screen_name', 'created_at', 'favorite_count', 'retweet_count', 'in_reply_to_status_id_str'])
+________________________
+==================================
+-----tillwhensday--------
+Check Quote
+	Returned Original Tweet: 1513503505369157633
+
+tillwhensday-------
+-Entities
+--------
+uuuuuuuunlocking an c18th French safe. https://t.co/uZsCfXP2XP
+Index Error on Media Url
+-Extended Entities
+------
+Found Ext Media
+Is Video
+Found dur [56.4] and vid info [len:3]
+vBook appended to videos
+vBook appended to videos
+vBook appended to videos
+vBook appended to videos
+
+** Adding dict_keys(['text', 'hasMedia'])
+________________________
+
+** Adding dict_keys(['mediaUrl', 'thumbnail', 'hasMedia', 'type', 'duration', 'videos'])
+________________________
+
+** Adding dict_keys(['id_str', 'text', 'name', 'screen_name', 'created_at', 'favorite_count', 'retweet_count', 'in_reply_to_status_id_str'])
+________________________
+==================================
+-----SolBrah--------
+Check Quote
+	Returned Original Tweet: 1513336390842474496
+
+SolBrah-------
+-Entities
+--------
+ENERGY https://t.co/mO86aoO9te
+Index Error on Media Url
+-Extended Entities
+------
+Found Ext Media
+Is Video
+Found dur [105.033] and vid info [len:3]
+vBook appended to videos
+vBook appended to videos
+vBook appended to videos
+vBook appended to videos
+
+** Adding dict_keys(['text', 'hasMedia'])
+________________________
+
+** Adding dict_keys(['mediaUrl', 'thumbnail', 'hasMedia', 'type', 'duration', 'videos'])
+________________________
+
+** Adding dict_keys(['id_str', 'text', 'name', 'screen_name', 'created_at', 'favorite_count', 'retweet_count', 'in_reply_to_status_id_str'])
+________________________
+==================================
+-----ZeitgeistFilm--------
+Check Quote
+	Returned Original Tweet: 1513199356559646728
+
+ZeitgeistFilm-------
+-Entities
+--------
+Interesting. #Nature is epic.
+
+"The research...found that these spikes often clustered into trains of activity, res https://t.co/QFkLsyRIOO
+Found 4 URLs
+Expanded_url: https://twitter.com/i/web/status/1513199356559646728
+Book updated-Extended Entities
+------
+No extEntMedia for: ZeitgeistFilm
+
+** Adding dict_keys(['text', 'expanded_url', 'hasMedia'])
+________________________
+
+** Adding dict_keys(['id_str', 'text', 'name', 'screen_name', 'created_at', 'favorite_count', 'retweet_count', 'in_reply_to_status_id_str'])
+________________________
+==================================
+-----crackconnoisser--------
+Check Quote
+	Returned Original Tweet: 1512554191780298761
+
+crackconnoisser-------
+-Entities
+--------
+how white people leave work fridays
+https://t.co/Fk4CJXvpU5
+Index Error on Media Url
+-Extended Entities
+------
+Found Ext Media
+Is Video
+Found dur [36.713] and vid info [len:3]
+vBook appended to videos
+vBook appended to videos
+vBook appended to videos
+vBook appended to videos
+
+** Adding dict_keys(['text', 'hasMedia'])
+________________________
+
+** Adding dict_keys(['mediaUrl', 'thumbnail', 'hasMedia', 'type', 'duration', 'videos'])
+________________________
+
+** Adding dict_keys(['id_str', 'text', 'name', 'screen_name', 'created_at', 'favorite_count', 'retweet_count', 'in_reply_to_status_id_str'])
+________________________
+==================================
+-----PonticSteppeDad--------
+Check Quote
+	Returned Original Tweet: 1511518786590961666
+
+PonticSteppeDad-------
+-Entities
+--------
+Check if you're on Travis Brown's Hate Speech list. Funded by the German Government.
+
+A lot of our guys. https://t.co/WntG2FcNL5
+Found 4 URLs
+Expanded_url: https://twitter.com/i/web/status/1511518786590961666
+Book updated-Extended Entities
+------
+No extEntMedia for: PonticSteppeDad
+
+** Adding dict_keys(['text', 'expanded_url', 'hasMedia'])
+________________________
+
+** Adding dict_keys(['id_str', 'text', 'name', 'screen_name', 'created_at', 'favorite_count', 'retweet_count', 'in_reply_to_status_id_str'])
+________________________
+==================================
+-----BigGulpAmerikan--------
+Check Quote
+	Is Quoted Status
+	Original Tweet ID: 1510996530110550020
+	Quoted Tweet ID: 1510878347223576576
+==================================
+-----lijukic--------
+Check Quote
+	Returned Original Tweet: 1510878347223576576
+is quoted
+==================================
+-----lijukic--------
+Check Quote
+	Returned Original Tweet: 1510878347223576576
+
+lijukic-------
+-Entities
+--------
+Unbelievably detailed map of the Holy Roman Empire in 1444 https://t.co/2VZDN6rcJ6
+Index Error on Media Url
+-Extended Entities
+------
+Found Ext Media
+Is Photo
+
+** Adding dict_keys(['text', 'hasMedia'])
+________________________
+
+** Adding dict_keys(['hasMedia', 'type', 'mediaUrl'])
+________________________
+
+** Adding dict_keys(['id_str', 'text', 'name', 'screen_name', 'created_at', 'favorite_count', 'retweet_count', 'in_reply_to_status_id_str'])
+________________________
+==================================
+-----CameronWEF--------
+Check Quote
+	Returned Original Tweet: 1510762187316686853
+
+CameronWEF-------
+-Entities
+--------
+Hungry residents in Shanghai break out of their compound to go food shopping. I'm seeing more and more chaotic and https://t.co/JB3uvxlz3V
+Found 4 URLs
+Expanded_url: https://twitter.com/i/web/status/1510762187316686853
+Book updated-Extended Entities
+------
+No extEntMedia for: CameronWEF
+
+** Adding dict_keys(['text', 'expanded_url', 'hasMedia'])
+________________________
+
+** Adding dict_keys(['id_str', 'text', 'name', 'screen_name', 'created_at', 'favorite_count', 'retweet_count', 'in_reply_to_status_id_str'])
+________________________
+==================================
+-----Adventure_Nero--------
+Check Quote
+	Returned Original Tweet: 1510656776303169536
+
+Adventure_Nero-------
+-Entities
+--------
+A joke in 1978 is fiscal policy today https://t.co/WALIgGpHH1
+Index Error on Media Url
+-Extended Entities
+------
+Found Ext Media
+Is Video
+Found dur [86.057] and vid info [len:3]
+vBook appended to videos
+vBook appended to videos
+vBook appended to videos
+
+** Adding dict_keys(['text', 'hasMedia'])
+________________________
+
+** Adding dict_keys(['mediaUrl', 'thumbnail', 'hasMedia', 'type', 'duration', 'videos'])
+________________________
+
+** Adding dict_keys(['id_str', 'text', 'name', 'screen_name', 'created_at', 'favorite_count', 'retweet_count', 'in_reply_to_status_id_str'])
+________________________
+==================================
+-----randal_olson--------
+Check Quote
+	Returned Original Tweet: 1510305906667315203
+
+randal_olson-------
+-Entities
+--------
+The first day of @Reddit's /r/Place experiment.
+
+/r/Place is a 1000x1000 pixel square. Every Redditor can place a s https://t.co/I5gKygJPKi
+Found 4 URLs
+Expanded_url: https://twitter.com/i/web/status/1510305906667315203
+Book updated-Extended Entities
+------
+No extEntMedia for: randal_olson
+
+** Adding dict_keys(['text', 'expanded_url', 'hasMedia'])
+________________________
+
+** Adding dict_keys(['id_str', 'text', 'name', 'screen_name', 'created_at', 'favorite_count', 'retweet_count', 'in_reply_to_status_id_str', 'user_mentions'])
+________________________
+==================================
+-----GiancarloSopo--------
+Check Quote
+	Returned Original Tweet: 1509598797848006663
+
+GiancarloSopo-------
+-Entities
+--------
+Adam was robbed. This is at least an A- paper. https://t.co/PAMbSlfztU
+Index Error on Media Url
+-Extended Entities
+------
+Found Ext Media
+Is Photo
+
+** Adding dict_keys(['text', 'hasMedia'])
+________________________
+
+** Adding dict_keys(['hasMedia', 'type', 'mediaUrl'])
+________________________
+
+** Adding dict_keys(['id_str', 'text', 'name', 'screen_name', 'created_at', 'favorite_count', 'retweet_count', 'in_reply_to_status_id_str'])
+________________________
+==================================
+-----archillect--------
+Check Quote
+	Returned Original Tweet: 1508467364379213835
+
+archillect-------
+-Entities
+--------
+https://t.co/9DhuxxuCfu
+Index Error on Media Url
+-Extended Entities
+------
+Found Ext Media
+Is Photo
+
+** Adding dict_keys(['text', 'hasMedia'])
+________________________
+
+** Adding dict_keys(['hasMedia', 'type', 'mediaUrl'])
+________________________
+
+** Adding dict_keys(['id_str', 'text', 'name', 'screen_name', 'created_at', 'favorite_count', 'retweet_count', 'in_reply_to_status_id_str'])
+________________________
+==================================
+-----dean_a_1984--------
+Check Quote
+	Returned Original Tweet: 1508287469040857089
+
+dean_a_1984-------
+-Entities
+--------
+We can never forget what they did to us. https://t.co/oIIFTh6ClN
+Index Error on Media Url
+-Extended Entities
+------
+Found Ext Media
+Is Video
+Found dur [100.866] and vid info [len:3]
+vBook appended to videos
+vBook appended to videos
+vBook appended to videos
+
+** Adding dict_keys(['text', 'hasMedia'])
+________________________
+
+** Adding dict_keys(['mediaUrl', 'thumbnail', 'hasMedia', 'type', 'duration', 'videos'])
+________________________
+
+** Adding dict_keys(['id_str', 'text', 'name', 'screen_name', 'created_at', 'favorite_count', 'retweet_count', 'in_reply_to_status_id_str'])
+________________________
+==================================
+-----STOGGERS2--------
+Check Quote
+	Is a reply Status
+	Reply Tweet ID: 1507750431241510916
+	Original Tweet ID: 1507747662422241291
+is a reply
+==================================
+-----DejaRu22--------
+Check Quote
+	Returned Original Tweet: 1507747662422241291
+==================================
+-----DejaRu22--------
+Check Quote
+	Returned Original Tweet: 1507747662422241291
+
+DejaRu22-------
+-Entities
+--------
+Heed this warning:
+
+If ever you are hiking in a national park,
+
+and happen come across a random staircase, do not w https://t.co/GxPHSg5alb
+Found 4 URLs
+Expanded_url: https://twitter.com/i/web/status/1507747662422241291
+Book updated-Extended Entities
+------
+No extEntMedia for: DejaRu22
+
+** Adding dict_keys(['text', 'expanded_url', 'hasMedia'])
+________________________
+
+** Adding dict_keys(['id_str', 'text', 'name', 'screen_name', 'created_at', 'favorite_count', 'retweet_count', 'in_reply_to_status_id_str'])
+________________________
+==================================
+-----Resist_05--------
+Check Quote
+	Returned Original Tweet: 1507506004678037508
+
+Resist_05-------
+-Entities
+--------
+1981 movie.. Predictive Programming https://t.co/PGmhtmExbz
+Index Error on Media Url
+-Extended Entities
+------
+Found Ext Media
+Is Video
+Found dur [140.0] and vid info [len:3]
+vBook appended to videos
+vBook appended to videos
+vBook appended to videos
+vBook appended to videos
+
+** Adding dict_keys(['text', 'hasMedia'])
+________________________
+
+** Adding dict_keys(['mediaUrl', 'thumbnail', 'hasMedia', 'type', 'duration', 'videos'])
+________________________
+
+** Adding dict_keys(['id_str', 'text', 'name', 'screen_name', 'created_at', 'favorite_count', 'retweet_count', 'in_reply_to_status_id_str'])
+________________________
+==================================
+-----NixonsAuSpectre--------
+Check Quote
+	Is a reply Status
+	Reply Tweet ID: 1507380508908527643
+	Original Tweet ID: 1507318505854619655
+is a reply
+==================================
+-----BNicholsLiberty--------
+Check Quote
+	Returned Original Tweet: 1507318505854619655
+==================================
+-----BNicholsLiberty--------
+Check Quote
+	Returned Original Tweet: 1507318505854619655
+
+BNicholsLiberty-------
+-Entities
+--------
+I wonder indeed...  https://t.co/sTdiyxngrj
+Index Error on Media Url
+-Extended Entities
+------
+Found Ext Media
+Is Photo
+
+** Adding dict_keys(['text', 'hasMedia'])
+________________________
+
+** Adding dict_keys(['hasMedia', 'type', 'mediaUrl'])
+________________________
+
+** Adding dict_keys(['id_str', 'text', 'name', 'screen_name', 'created_at', 'favorite_count', 'retweet_count', 'in_reply_to_status_id_str'])
+________________________
+==================================
+-----MythinformedMKE--------
+Check Quote
+	Returned Original Tweet: 1507022448742567940
+
+MythinformedMKE-------
+-Entities
+--------
+This is a meme from 2010. https://t.co/65Q1ykojhX
+Index Error on Media Url
+-Extended Entities
+------
+Found Ext Media
+Is Photo
+
+** Adding dict_keys(['text', 'hasMedia'])
+________________________
+
+** Adding dict_keys(['hasMedia', 'type', 'mediaUrl'])
+________________________
+
+** Adding dict_keys(['id_str', 'text', 'name', 'screen_name', 'created_at', 'favorite_count', 'retweet_count', 'in_reply_to_status_id_str'])
+________________________
+==================================
+-----stillgray--------
+Check Quote
+	Returned Original Tweet: 1506920970430595072
+
+stillgray-------
+-Entities
+--------
+He is certainly an entertainer.  https://t.co/jqvw16tMNe
+Index Error on Media Url
+-Extended Entities
+------
+Found Ext Media
+Is Video
+Found dur [27.504] and vid info [len:3]
+vBook appended to videos
+vBook appended to videos
+vBook appended to videos
+vBook appended to videos
+
+** Adding dict_keys(['text', 'hasMedia'])
+________________________
+
+** Adding dict_keys(['mediaUrl', 'thumbnail', 'hasMedia', 'type', 'duration', 'videos'])
+________________________
+
+** Adding dict_keys(['id_str', 'text', 'name', 'screen_name', 'created_at', 'favorite_count', 'retweet_count', 'in_reply_to_status_id_str'])
+________________________
+==================================
+-----disclosetv--------
+Check Quote
+	Returned Original Tweet: 1506435474948333571
+
+disclosetv-------
+-Entities
+--------
+NOW - Multi-vortex tornado rips through parts of New Orleans.
+
+https://t.co/FWghdRqX7N
+Index Error on Media Url
+-Extended Entities
+------
+Found Ext Media
+Is Video
+Found dur [12.855] and vid info [len:3]
+vBook appended to videos
+vBook appended to videos
+vBook appended to videos
+vBook appended to videos
+
+** Adding dict_keys(['text', 'hasMedia'])
+________________________
+
+** Adding dict_keys(['mediaUrl', 'thumbnail', 'hasMedia', 'type', 'duration', 'videos'])
+________________________
+
+** Adding dict_keys(['id_str', 'text', 'name', 'screen_name', 'created_at', 'favorite_count', 'retweet_count', 'in_reply_to_status_id_str'])
+________________________
+==================================
+-----most_opppressed--------
+Check Quote
+	Is a reply Status
+	Reply Tweet ID: 1506360355085340673
+	Original Tweet ID: 1506352752871550988
+is a reply
+==================================
+-----most_opppressed--------
+Check Quote
+	Is a reply Status
+	Reply Tweet ID: 1506352752871550988
+	Original Tweet ID: 1506066508832817156
+==================================
+-----most_opppressed--------
+Check Quote
+	Returned Original Tweet: 1506066508832817156
+
+most_opppressed-------
+-Entities
+--------
+I watch this once a week. its one of my favorite pick me ups. https://t.co/BJBBXcCDl8
+Index Error on Media Url
+-Extended Entities
+------
+Found Ext Media
+Is Video
+Found dur [26.659] and vid info [len:3]
+vBook appended to videos
+vBook appended to videos
+vBook appended to videos
+vBook appended to videos
+
+** Adding dict_keys(['text', 'hasMedia'])
+________________________
+
+** Adding dict_keys(['mediaUrl', 'thumbnail', 'hasMedia', 'type', 'duration', 'videos'])
+________________________
+
+** Adding dict_keys(['id_str', 'text', 'name', 'screen_name', 'created_at', 'favorite_count', 'retweet_count', 'in_reply_to_status_id_str'])
+________________________
+==================================
+-----ShootYourShin--------
+Check Quote
+	Is a reply Status
+	Reply Tweet ID: 1506106034816892929
+	Original Tweet ID: 1506066508832817156
+is a reply
+==================================
+-----most_opppressed--------
+Check Quote
+	Returned Original Tweet: 1506066508832817156
+==================================
+-----most_opppressed--------
+Check Quote
+	Returned Original Tweet: 1506066508832817156
+
+most_opppressed-------
+-Entities
+--------
+I watch this once a week. its one of my favorite pick me ups. https://t.co/BJBBXcCDl8
+Index Error on Media Url
+-Extended Entities
+------
+Found Ext Media
+Is Video
+Found dur [26.659] and vid info [len:3]
+vBook appended to videos
+vBook appended to videos
+vBook appended to videos
+vBook appended to videos
+
+** Adding dict_keys(['text', 'hasMedia'])
+________________________
+
+** Adding dict_keys(['mediaUrl', 'thumbnail', 'hasMedia', 'type', 'duration', 'videos'])
+________________________
+
+** Adding dict_keys(['id_str', 'text', 'name', 'screen_name', 'created_at', 'favorite_count', 'retweet_count', 'in_reply_to_status_id_str'])
+________________________
+==================================
+-----most_opppressed--------
+Check Quote
+	Returned Original Tweet: 1506066508832817156
+
+most_opppressed-------
+-Entities
+--------
+I watch this once a week. its one of my favorite pick me ups. https://t.co/BJBBXcCDl8
+Index Error on Media Url
+-Extended Entities
+------
+Found Ext Media
+Is Video
+Found dur [26.659] and vid info [len:3]
+vBook appended to videos
+vBook appended to videos
+vBook appended to videos
+vBook appended to videos
+
+** Adding dict_keys(['text', 'hasMedia'])
+________________________
+
+** Adding dict_keys(['mediaUrl', 'thumbnail', 'hasMedia', 'type', 'duration', 'videos'])
+________________________
+
+** Adding dict_keys(['id_str', 'text', 'name', 'screen_name', 'created_at', 'favorite_count', 'retweet_count', 'in_reply_to_status_id_str'])
+________________________
+==================================
+-----cheripiebuffalo--------
+Check Quote
+	Is Quoted Status
+	Original Tweet ID: 1505984652246405129
+	Quoted Tweet ID: 1505967233297969153
+==================================
+-----stillgray--------
+Check Quote
+	Returned Original Tweet: 1505967233297969153
+is quoted
+==================================
+-----stillgray--------
+Check Quote
+	Returned Original Tweet: 1505967233297969153
+
+stillgray-------
+-Entities
+--------
+There is great significance to the passage of time. Wise words from Kamala Harris. She will go down in the history https://t.co/IDSHMtefIb
+Found 4 URLs
+Expanded_url: https://twitter.com/i/web/status/1505967233297969153
+Book updated-Extended Entities
+------
+No extEntMedia for: stillgray
+
+** Adding dict_keys(['text', 'expanded_url', 'hasMedia'])
+________________________
+
+** Adding dict_keys(['id_str', 'text', 'name', 'screen_name', 'created_at', 'favorite_count', 'retweet_count', 'in_reply_to_status_id_str'])
+________________________
+==================================
+-----JackPosobiec--------
+Check Quote
+	Returned Original Tweet: 1505722999386824708
+
+JackPosobiec-------
+-Entities
+--------
+When a country bans all opposition parties and consolidates all TV channels under one govt-approved source it only https://t.co/6BlDMXEYoX
+Found 4 URLs
+Expanded_url: https://twitter.com/i/web/status/1505722999386824708
+Book updated-Extended Entities
+------
+No extEntMedia for: JackPosobiec
+
+** Adding dict_keys(['text', 'expanded_url', 'hasMedia'])
+________________________
+
+** Adding dict_keys(['id_str', 'text', 'name', 'screen_name', 'created_at', 'favorite_count', 'retweet_count', 'in_reply_to_status_id_str'])
+________________________
+==================================
+-----AuronMacintyre--------
+Check Quote
+	Returned Original Tweet: 1505667375164801026
+
+AuronMacintyre-------
+-Entities
+--------
+We are sacrificing for democracy 
+
+We have to defend freedom https://t.co/J0cWo9uNyF
+Index Error on Media Url
+-Extended Entities
+------
+Found Ext Media
+Is Photo
+
+** Adding dict_keys(['text', 'hasMedia'])
+________________________
+
+** Adding dict_keys(['hasMedia', 'type', 'mediaUrl'])
+________________________
+
+** Adding dict_keys(['id_str', 'text', 'name', 'screen_name', 'created_at', 'favorite_count', 'retweet_count', 'in_reply_to_status_id_str'])
+________________________
+==================================
+-----Peter_Nimitz--------
+Check Quote
+	Returned Original Tweet: 1505649355822313473
+
+Peter_Nimitz-------
+-Entities
+--------
+4 good books that cover important parts of Ukrainian history. Magocsi's will be the most relevant. https://t.co/jxfFqfzxvw
+Index Error on Media Url
+-Extended Entities
+------
+Found Ext Media
+Is Photo
+
+** Adding dict_keys(['text', 'hasMedia'])
+________________________
+
+** Adding dict_keys(['hasMedia', 'type', 'mediaUrl'])
+________________________
+
+** Adding dict_keys(['id_str', 'text', 'name', 'screen_name', 'created_at', 'favorite_count', 'retweet_count', 'in_reply_to_status_id_str'])
+________________________
+==================================
+-----penny__wall--------
+Check Quote
+	Returned Original Tweet: 1505631187796209670
+
+penny__wall-------
+-Entities
+--------
+found Nicholson Baker's book exposing the technocratic conquest of librariesarchives destroyed by CIA agentsit's https://t.co/7yjrQ1Ydhc
+Found 4 URLs
+Expanded_url: https://twitter.com/i/web/status/1505631187796209670
+Book updated-Extended Entities
+------
+No extEntMedia for: penny__wall
+
+** Adding dict_keys(['text', 'expanded_url', 'hasMedia'])
+________________________
+
+** Adding dict_keys(['id_str', 'text', 'name', 'screen_name', 'created_at', 'favorite_count', 'retweet_count', 'in_reply_to_status_id_str'])
+________________________
+==================================
+-----conspiracyb0t--------
+Check Quote
+	Returned Original Tweet: 1505530037033971714
+
+conspiracyb0t-------
+-Entities
+--------
+https://t.co/X17hVOsAaj
+Index Error on Media Url
+-Extended Entities
+------
+Found Ext Media
+Is Photo
+
+** Adding dict_keys(['text', 'hasMedia'])
+________________________
+
+** Adding dict_keys(['hasMedia', 'type', 'mediaUrl'])
+________________________
+
+** Adding dict_keys(['id_str', 'text', 'name', 'screen_name', 'created_at', 'favorite_count', 'retweet_count', 'in_reply_to_status_id_str'])
+________________________
+==================================
+-----SolBrah--------
+Check Quote
+	Returned Original Tweet: 1505174258405847043
+
+SolBrah-------
+-Entities
+--------
+30 THINGS YOU SHOULD START DOING BEFORE YOU TURN 30 - THREAD https://t.co/1RB8xSwh3g
+Index Error on Media Url
+-Extended Entities
+------
+Found Ext Media
+Is Photo
+
+** Adding dict_keys(['text', 'hasMedia'])
+________________________
+
+** Adding dict_keys(['hasMedia', 'type', 'mediaUrl'])
+________________________
+
+** Adding dict_keys(['id_str', 'text', 'name', 'screen_name', 'created_at', 'favorite_count', 'retweet_count', 'in_reply_to_status_id_str'])
+________________________
+==================================
+-----smoogumin--------
+Check Quote
+	Is a reply Status
+	Reply Tweet ID: 1504759995577118720
+	Original Tweet ID: 1504399464982851587
+is a reply
+==================================
+-----smoogumin--------
+Check Quote
+	Returned Original Tweet: 1504399464982851587
+==================================
+-----smoogumin--------
+Check Quote
+	Returned Original Tweet: 1504399464982851587
+
+smoogumin-------
+-Entities
+--------
+https://t.co/LETCpBiuMM
+Index Error on Media Url
+-Extended Entities
+------
+Found Ext Media
+Is Photo
+
+** Adding dict_keys(['text', 'hasMedia'])
+________________________
+
+** Adding dict_keys(['hasMedia', 'type', 'mediaUrl'])
+________________________
+
+** Adding dict_keys(['id_str', 'text', 'name', 'screen_name', 'created_at', 'favorite_count', 'retweet_count', 'in_reply_to_status_id_str'])
+________________________
+==================================
+-----disclosetv--------
+Check Quote
+	Returned Original Tweet: 1504545899376218118
+
+disclosetv-------
+-Entities
+--------
+NOW - Psaki declines to comment on Hunter Biden's laptop. https://t.co/3fKXidPQ3d
+Index Error on Media Url
+-Extended Entities
+------
+Found Ext Media
+Is Video
+Found dur [21.375] and vid info [len:3]
+vBook appended to videos
+vBook appended to videos
+vBook appended to videos
+vBook appended to videos
+
+** Adding dict_keys(['text', 'hasMedia'])
+________________________
+
+** Adding dict_keys(['mediaUrl', 'thumbnail', 'hasMedia', 'type', 'duration', 'videos'])
+________________________
+
+** Adding dict_keys(['id_str', 'text', 'name', 'screen_name', 'created_at', 'favorite_count', 'retweet_count', 'in_reply_to_status_id_str'])
+________________________

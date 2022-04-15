@@ -1,0 +1,2 @@
+Num of Tweets: 35
+Base Path: C:\Users\User\Documents\Programming\Python_stuff\twitLikeStorage\TwitterFiles
